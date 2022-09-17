@@ -1,2 +1,2 @@
-# angular-control-value-accessor
-Two way binding using Angular ControlValueAccessor
+# Control Value Accessor
+Two way binding example using control value accessor
