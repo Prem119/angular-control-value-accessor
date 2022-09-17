@@ -1,2 +1,2 @@
 # Control Value Accessor
-Two way binding example using control value accessor
+Bi-directional binding for custom components in Angular using [ControlValueAccessor](https://angular.io/api/forms/ControlValueAccessor).
