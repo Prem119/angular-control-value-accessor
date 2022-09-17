@@ -1,0 +1,30 @@
+.content {
+    padding-top: 10px;
+}
+
+.emailText {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+.mainForm {
+    border-color: darkorange;
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 7px;
+    width: max-content;
+}
+
+.title {
+    color: darkorange;
+    font-family: Arial;
+    font-size: 14px;
+    font-style: italic;
+}

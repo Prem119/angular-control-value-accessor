@@ -1,0 +1,20 @@
+<div [formGroup]="emailForm"
+     class="emailForm">
+    <span class="title">Child Component</span>
+    <br/>
+    <div class="content">
+        <input type="text"
+               formControlName="emailPrefix"
+               id="emailPrefix"
+               style="width: 150px;">
+        <span class="at"> @ </span>
+        <select formControlName="emailDomain"
+                id="emailDomain"
+                style="width: 150px;">
+            <option *ngFor="let item of domains"
+                    [value]="item">
+                {{item}}
+            </option>
+        </select>
+    </div>
+</div>
