@@ -1,7 +1,7 @@
 # Control Value Accessor
 
 ## Overview
-Two way(bi-directional) binding for custom components in Angular using [ControlValueAccessor](https://angular.io/api/forms/ControlValueAccessor).
+Two-way (bi-directional) binding for custom components in Angular using [ControlValueAccessor](https://angular.io/api/forms/ControlValueAccessor).
 
 ## Steps to execute this code
 ### 1. Download code
